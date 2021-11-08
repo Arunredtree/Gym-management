@@ -1,0 +1,36 @@
+{
+    "0987654321": {
+        "Name": "P Arun",
+        "Age": "24",
+        "Gender": "Male",
+        "Number": "0987654321",
+        "Email": "arunmail.com",
+        "Height": 1.9,
+        "Weight": 100,
+        "Months": 1,
+        "BMI": 27.7,
+        "Password": "Arun@12345",
+        "Regimen": [
+            "Mon: Chest",
+            "Tue: Biceps",
+            "Wed: Abs/Cardio",
+            "Thu: Back",
+            "Fri: Triceps",
+            "Sat: Legs",
+            "Sun: Cardio"
+        ]
+    },
+    "SUPERUSER": {
+        "Name": "SUPERUSER",
+        "Age": "SUPERUSER",
+        "Gender": "SUPERUSER",
+        "Number": "SUPERUSER",
+        "Email": "SUPERUSER",
+        "Height": "SUPERUSER",
+        "Weight": "SUPERUSER",
+        "Months": "SUPERUSER",
+        "BMI": "SUPERUSER",
+        "Password": "SUPERUSER",
+        "Regimen": "SUPERUSER"
+    }
+}
